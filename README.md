@@ -1,1 +1,1 @@
-# SQL_Scripts
+Resumo de Scripts para poder usar quando precisar
